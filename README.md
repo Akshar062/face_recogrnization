@@ -28,7 +28,7 @@ Welcome to the Face Recognition Trainer project! This Python application allows 
 
 ## Run the main script:
    ```bash
-   python face_recognition.py
+   python face_train.py
    ```
 
 ## Features
